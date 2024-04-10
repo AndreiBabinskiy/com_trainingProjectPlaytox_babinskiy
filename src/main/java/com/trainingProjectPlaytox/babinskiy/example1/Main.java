@@ -4,10 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
-
-public class Main1 {
+public class Main {
     public static void main(String[] args) {
         // Создаем список счетов
         List<Account> accounts = new ArrayList<>();
